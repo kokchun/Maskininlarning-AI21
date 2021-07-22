@@ -42,7 +42,7 @@ Weeks 6-10 focuses on supervised machine learning algorithms. Week 11
 |   9   | SVM, Descision tree, Random forest, "Model deployment", **lab2**      |
 |  10   | Naive Bayes, **lab2**                                                 |
 |  11   | **Unsupervised:** K-means, PCA, **lab3**                              |
-|  12   | Hierarchical clustering, **lab3**                                     |
+|  12   | Hierarchical clustering, ANN, **lab3**                                |
 |  13   | Repetition                                                            |
 |  14   | Exam                                                                  |
 
