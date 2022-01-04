@@ -28,19 +28,19 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 </details>
 
 ## Schedule
-Weeks 6-10 focuses on supervised machine learning algorithms. Week 11
+Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsupervised learning and artificial neural network. 
 
-|   Week   | Content                                                          |
-| :------: | ---------------------------------------------------------------- |
-| [6][w1]  | **Regression** Linear, polynomial, gradient descent              |
-| [7][w2]  | Overfitting, underfitting, regularization, cross-validation      |
-| [8][w3]  | **Classification:** Logistic regression, KNN                     |
-| [9][w4]  | SVM, Descision tree, Random forest, "Model deployment", **lab1** |
-| [10][w5] | Naive Bayes, **lab1**                                            |
-| [11][w6] | **Unsupervised:** K-means, PCA, **lab2**                         |
-| [12][w7] | Hierarchical clustering, ANN intro, **lab2**                     |
-| [13][w8] | Repetition                                                       |
-| [14][w9] | Exam                                                             |
+|   Week   | Content                                                     |
+| :------: | ----------------------------------------------------------- |
+| [6][w1]  | **Regression** Linear, polynomial, gradient descent         |
+| [7][w2]  | Overfitting, underfitting, regularization, cross-validation |
+| [8][w3]  | **Classification:** Logistic regression, KNN                |
+| [9][w4]  | SVM, Descision tree, Random forest, "", **lab1**            |
+| [10][w5] | Naive Bayes, **lab1**                                       |
+| [11][w6] | **Unsupervised:** K-means, PCA, **lab2**                    |
+| [12][w7] | Hierarchical clustering, ANN intro, **lab2**                |
+| [13][w8] | Repetition                                                  |
+| [14][w9] | Exam                                                        |
 
 [w1]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week1.md
 [w2]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week2.md
