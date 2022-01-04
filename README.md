@@ -6,26 +6,11 @@ This is a course with focus of learning concepts in machine learning using **sci
 - pandas
 - visualising data
 - fundamental statistics 
+- fundamental linear algebra
 
 All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 [ghr]: https://github.com/kokchun/Maskininlarning-AI21
-
-## Contents
-
-- [Schedule](#schedule)
-- [Resources](#resources) <details> <summary> Weeks </summary>
-  - [Week 6](#week1)
-  - [Week 7](#week2)
-  - [Week 8](#week3)
-  - [Week 9](#week4)
-  - [Week 10](#week5)
-  - [Week 11](#week6)
-  - [Week 12](#week7)
-  - [Week 13](#week8)
-  - [Week 14](#week9)
-
-</details>
 
 ## Schedule
 Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsupervised learning and artificial neural network. 
