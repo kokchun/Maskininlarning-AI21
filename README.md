@@ -30,20 +30,27 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 ## Schedule
 Weeks 6-10 focuses on supervised machine learning algorithms. Week 11
 
-| Week  | Content                                                          |
-| :---: | ---------------------------------------------------------------- |
-|   [6][w1]   | **Regression** Linear, polynomial, gradient descent              |
-|   7   | Overfitting, underfitting, regularization, cross-validation      |
-|   8   | **Classification:** Logistic regression, KNN                     |
-|   9   | SVM, Descision tree, Random forest, "Model deployment", **lab1** |
-|  10   | Naive Bayes, **lab1**                                            |
-|  11   | **Unsupervised:** K-means, PCA, **lab2**                         |
-|  12   | Hierarchical clustering, ANN intro, **lab2**                     |
-|  13   | Repetition                                                       |
-|  14   | Exam                                                             |
+|   Week   | Content                                                          |
+| :------: | ---------------------------------------------------------------- |
+| [6][w1]  | **Regression** Linear, polynomial, gradient descent              |
+| [7][w2]  | Overfitting, underfitting, regularization, cross-validation      |
+| [8][w3]  | **Classification:** Logistic regression, KNN                     |
+| [9][w4]  | SVM, Descision tree, Random forest, "Model deployment", **lab1** |
+| [10][w5] | Naive Bayes, **lab1**                                            |
+| [11][w6] | **Unsupervised:** K-means, PCA, **lab2**                         |
+| [12][w7] | Hierarchical clustering, ANN intro, **lab2**                     |
+| [13][w8] | Repetition                                                       |
+| [14][w9] | Exam                                                             |
 
-[w1]: 
-
+[w1]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week1.md
+[w2]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week2.md
+[w3]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week3.md
+[w4]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week4.md
+[w5]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week5.md
+[w6]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week6.md
+[w7]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week7.md
+[w8]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week8.md
+[w9]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week9.md
 
 ## Resources
 
