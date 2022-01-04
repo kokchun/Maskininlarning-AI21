@@ -34,17 +34,17 @@ Weeks 6-10 focuses on supervised machine learning algorithms. Week 11
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-| Week  | Content                                                               |
-| :---: | --------------------------------------------------------------------- |
-|   6   | **Regression** Linear, polynomial, gradient descent, **lab1**         |
-|   7   | Overfitting, underfitting, regularization, cross-validation, **lab1** |
-|   8   | **Classification:** Logistic regression, KNN,                         |
-|   9   | SVM, Descision tree, Random forest, "Model deployment", **lab2**      |
-|  10   | Naive Bayes, **lab2**                                                 |
-|  11   | **Unsupervised:** K-means, PCA, **lab3**                              |
-|  12   | Hierarchical clustering, ANN, **lab3**                                |
-|  13   | Repetition                                                            |
-|  14   | Exam                                                                  |
+| Week  | Content                                                          |
+| :---: | ---------------------------------------------------------------- |
+|   6   | **Regression** Linear, polynomial, gradient descent              |
+|   7   | Overfitting, underfitting, regularization, cross-validation      |
+|   8   | **Classification:** Logistic regression, KNN                     |
+|   9   | SVM, Descision tree, Random forest, "Model deployment", **lab1** |
+|  10   | Naive Bayes, **lab1**                                            |
+|  11   | **Unsupervised:** K-means, PCA, **lab2**                         |
+|  12   | Hierarchical clustering, ANN intro, **lab2**                     |
+|  13   | Repetition                                                       |
+|  14   | Exam                                                             |
 
 </details>
 
@@ -55,131 +55,3 @@ Many exercises and lecture materials are in form of Jupyter notebooks with **.ip
 [nbviewer]: https://nbviewer.jupyter.org/
 [colab_addon]: https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=sv
 
-When installing softwares, unless anything else is stated below, just click next.
-
-<details open>
-
-<summary id = "week1"><b>Week 6</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-
-<details open>
-
-<summary id = "week2"><b >Week 7</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-<details open>
-
-<summary id = "week3"><b >Week 8</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-<details open>
-
-<summary id = "week4"><b >Week 9</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-<details open>
-
-<summary id = "week5"><b >Week 10</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-<details open>
-
-<summary id = "week6"><b >Week 11</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-<details open>
-
-<summary id = "week7"><b >Week 12</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-<details open>
-
-<summary id = "week8"><b >Week 13</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
-
-<details open>
-
-<summary id = "week9"><b >Week 14</b></summary>
-
-Setup :wrench:
-
-Video guides :video_camera:
-
-Theory :book:
-
-Exercises :running:
-
-</details>
