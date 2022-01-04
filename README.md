@@ -30,13 +30,9 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 ## Schedule
 Weeks 6-10 focuses on supervised machine learning algorithms. Week 11
 
-<details open>
-  
-<summary id="schedule">Click to see/hide schedule</summary>
-
 | Week  | Content                                                          |
 | :---: | ---------------------------------------------------------------- |
-|   6   | **Regression** Linear, polynomial, gradient descent              |
+|   [6][w1]   | **Regression** Linear, polynomial, gradient descent              |
 |   7   | Overfitting, underfitting, regularization, cross-validation      |
 |   8   | **Classification:** Logistic regression, KNN                     |
 |   9   | SVM, Descision tree, Random forest, "Model deployment", **lab1** |
@@ -46,7 +42,8 @@ Weeks 6-10 focuses on supervised machine learning algorithms. Week 11
 |  13   | Repetition                                                       |
 |  14   | Exam                                                             |
 
-</details>
+[w1]: 
+
 
 ## Resources
 

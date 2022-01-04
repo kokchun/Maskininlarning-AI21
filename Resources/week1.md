@@ -1,0 +1,24 @@
+# Week 6 - Resources
+
+[:house: Main page](https://github.com/kokchun/Maskininlarning-AI21)
+
+## Setup :wrench:
+
+1. Create a new folder for this course 
+2. Create a new pipenvironment with 
+   ```python 
+   pipenv shell
+   ```  
+3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn**, to this pipenv
+
+## Video guides :video_camera:
+
+
+## Lecture notes :book:
+
+
+## Theory :book:
+
+
+## Exercises :running:
+
