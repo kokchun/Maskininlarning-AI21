@@ -9,7 +9,7 @@
    ```python 
    pipenv shell
    ```  
-3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn**, to this pipenv
+3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn** to this pipenv
 
 ## Video guides :video_camera:
 
@@ -18,7 +18,7 @@
 
 
 ## Theory :book:
-
+- [ISLRv2 pp 59-82 - linear regression](https://www.statlearning.com/)
 
 ## Exercises :running:
 
