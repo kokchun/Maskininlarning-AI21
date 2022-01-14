@@ -2,10 +2,11 @@
 
 ## UNDER CONSTRUCTION
 
-This is a course with focus of learning concepts in machine learning using **scikit-learn**. This course will build upon prior skills in: 
+This is a course with focus of learning concepts in machine learning using **scikit-learn**. This course will build upon prior skills in:
+
 - pandas
 - visualising data
-- fundamental statistics 
+- fundamental statistics
 - fundamental linear algebra
 
 All lecture codes and exercises can be found in the course [Github repo][ghr].
@@ -13,17 +14,18 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 [ghr]: https://github.com/kokchun/Maskininlarning-AI21
 
 ## Schedule
-Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsupervised learning and artificial neural network. 
+
+Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsupervised learning and artificial neural network.
 
 |   Week   | Content                                                     |
 | :------: | ----------------------------------------------------------- |
 | [6][w1]  | **Regression** Linear, polynomial, gradient descent         |
 | [7][w2]  | Overfitting, underfitting, regularization, cross-validation |
 | [8][w3]  | **Classification:** Logistic regression, KNN                |
-| [9][w4]  | SVM, Descision tree, Random forest, "", **lab1**            |
+| [9][w4]  | SVM, Descision tree, Random forest, **lab1**                |
 | [10][w5] | Naive Bayes, **lab1**                                       |
-| [11][w6] | **Unsupervised:** K-means, PCA, **lab2**                    |
-| [12][w7] | Hierarchical clustering, ANN intro, **lab2**                |
+| [11][w6] | **Unsupervised:** K-means, PCA, **lab1**                    |
+| [12][w7] | Hierarchical clustering, ANN intro                          |
 | [13][w8] | Repetition                                                  |
 | [14][w9] | Exam                                                        |
 
@@ -43,4 +45,3 @@ Many exercises and lecture materials are in form of Jupyter notebooks with **.ip
 
 [nbviewer]: https://nbviewer.jupyter.org/
 [colab_addon]: https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=sv
-
