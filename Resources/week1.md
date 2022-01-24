@@ -13,6 +13,10 @@
 
 ## Video guides :video_camera:
 
+- [Simple linear regression intuition](https://www.youtube.com/watch?v=HoqXask9cN8)
+- [Simple linear regression Andrew Ng](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLJs7lEb1U5pYnrI0Wn4mzPmppVqwERL_4)
+- [Gradient descent Andrew Ng](https://www.youtube.com/watch?v=F6GSRDoB-Cg)
+
 
 ## Lecture notes :book:
 
