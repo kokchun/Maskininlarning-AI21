@@ -23,6 +23,8 @@
 
 ## Theory :book:
 - [ISLRv2 pp 59-82 - linear regression](https://www.statlearning.com/)
+- [Scaling data](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/)
+- [Sklearn min-max scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
 
 ## Exercises :running:
 
