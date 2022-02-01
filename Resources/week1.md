@@ -20,11 +20,19 @@
 
 ## Lecture notes :book:
 
+- [Linear regression](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/L0-Linear_regression.ipynb)
+- [Gradient descent](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/L1-Gradient_descent.ipynb)
 
 ## Theory :book:
 - [ISLRv2 pp 59-82 - linear regression](https://www.statlearning.com/)
-- [Scaling data](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/)
+- [Numpy polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
+- [Seaborn regplot](https://seaborn.pydata.org/generated/seaborn.regplot.html)
+- [Gradient descent wikipedia (GD)](https://en.wikipedia.org/wiki/Gradient_descent)
+- [stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+- [Data leakage wikipedia](<https://en.wikipedia.org/wiki/Leakage_(machine_learning)>)
+- [Scaling data machine learning mastery](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/)
 - [Sklearn min-max scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
+
 
 ## Exercises :running:
 
