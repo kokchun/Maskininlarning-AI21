@@ -1,6 +1,4 @@
-# Maskininlarning (AI21)
-
-## UNDER CONSTRUCTION
+# Maskininlärning (AI21)
 
 This is a course with focus of learning concepts in machine learning using **scikit-learn**. This course will build upon prior skills in:
 
@@ -21,7 +19,7 @@ Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsup
 | :------: | ----------------------------------------------------------- |
 | [6][w1]  | **Regression** Linear, polynomial, gradient descent         |
 | [7][w2]  | Overfitting, underfitting, regularization, cross-validation |
-| [8][w3]  | **Classification:** Logistic regression, KNN                |
+| [8][w3]  | **Classification:** Logistic regression, KNN, scrum         |
 | [9][w4]  | SVM, Descision tree, Random forest, **lab1**                |
 | [10][w5] | Naive Bayes, **lab1**                                       |
 | [11][w6] | **Unsupervised:** K-means, PCA, **lab1**                    |
