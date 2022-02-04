@@ -35,4 +35,6 @@
 
 
 ## Exercises :running:
+- [Linear regression](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Exercises/E00_linear_regression.ipynb)
+- [Gradient descent](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Exercises/E01_gradient_descent.ipynb)
 
