@@ -6,7 +6,9 @@
 - [Cross-validation](https://www.youtube.com/watch?v=TIgfjmp-4BA)
 
 ## Lecture notes :book:
-
+- [Scikit-learn](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/L2-scikit-learn.ipynb)
+- [Overfitting & underfitting](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/L3-overfitting-underfitting.ipynb)
+- [Regularized linear models](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/L3-overfitting-underfitting.ipynb)
 
 ## Theory :book:
 
@@ -42,3 +44,5 @@ References for lecture - Regularized linear models
 ## Exercises :running:
 
 - [scikit-learn exercises](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Exercises/E02_sklearn.ipynb)
+
+- [Overfit and regularization](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Exercises/E03_overfit_regularization.ipynb)
