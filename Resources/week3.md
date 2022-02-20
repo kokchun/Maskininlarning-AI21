@@ -17,6 +17,8 @@
 
 ## Theory :book:
 
+- [Statistical classification - wikipedia](https://en.wikipedia.org/wiki/Statistical_classification)
+
 Logistic regression
 - [Sigmoid function - wikipedia](https://en.wikipedia.org/wiki/Sigmoid_function)
 - [Logistic regression - wikipedia](https://en.wikipedia.org/wiki/Logistic_regression)
