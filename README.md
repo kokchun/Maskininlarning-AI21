@@ -20,11 +20,11 @@ Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsup
 | [6][w1]  | **Regression** Linear, polynomial, gradient descent         |
 | [7][w2]  | Overfitting, underfitting, regularization, cross-validation |
 | [8][w3]  | **Classification:** Logistic regression, KNN, scrum         |
-| [9][w4]  | SVM, Descision tree, Random forest, **lab1**                |
-| [10][w5] | Naive Bayes, **lab1**                                       |
+| [9][w4]  | Statistics, LiA, own reading                                |
+| [10][w5] | SVM, Descision tree, Random forest, **lab1**                |
 | [11][w6] | **Unsupervised:** K-means, PCA, **lab1**                    |
-| [12][w7] | Hierarchical clustering, ANN intro                          |
-| [13][w8] | Repetition                                                  |
+| [12][w7] | Hierarchical clustering, **lab1**                           |
+| [13][w8] | ANN intro, Naive Bayes, Repetition                          |
 | [14][w9] | Exam                                                        |
 
 [w1]: https://github.com/kokchun/Maskininlarning-AI21/blob/main/Resources/week1.md
