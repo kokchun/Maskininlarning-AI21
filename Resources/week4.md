@@ -2,14 +2,13 @@
 
 [:house: Main page](https://github.com/kokchun/Maskininlarning-AI21)
 
-## Video guides :video_camera:
+This week is dedicated for 
+- studying statistics (those that needs to take the exam)
+- apply for LiA (praktik)
+- study visits
+- job market day
+- old exercises in machine learning that you haven't had time to finish
+- study on your own on ISLR
+- study other reading materials in previous weeks in machine learning 
 
-
-## Lecture notes :book:
-
-
-## Theory :book:
-
-
-## Exercises :running:
 
