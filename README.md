@@ -13,7 +13,7 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 ## Schedule
 
-Weeks 6-9 focuses on supervised machine learning algorithms. Week 11-12 on unsupervised learning and artificial neural network.
+This course mostly focuses on supervised learning, both regression and classification, but has small parts in unsupervised learning, dimension reductions and artificial neural networks. 
 
 |   Week   | Content                                                     |
 | :------: | ----------------------------------------------------------- |
