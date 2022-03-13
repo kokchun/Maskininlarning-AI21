@@ -13,7 +13,7 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 ## Schedule
 
-This course mostly focuses on supervised learning, both regression and classification, but has small parts in unsupervised learning, dimension reductions and artificial neural networks. 
+This course mostly focuses on supervised learning, both regression and classification, but has small parts in unsupervised learning, dimension reductions and artificial neural networks.
 
 |   Week   | Content                                                     |
 | :------: | ----------------------------------------------------------- |
@@ -21,9 +21,9 @@ This course mostly focuses on supervised learning, both regression and classific
 | [7][w2]  | Overfitting, underfitting, regularization, cross-validation |
 | [8][w3]  | **Classification:** Logistic regression, KNN, scrum         |
 | [9][w4]  | Statistics, LiA, own reading                                |
-| [10][w5] | SVM, Descision tree, Random forest, **lab1**                |
-| [11][w6] | Naive bayes, **Unsupervised:** K-means, **lab1**            |
-| [12][w7] | PCA, **lab1**                                               |
+| [10][w5] | SVM, Descision tree, **lab1**                               |
+| [11][w6] | Random forest, NLP intro, Naive bayes, **lab1**             |
+| [12][w7] | **Unsupervised:** K-means, PCA **lab1**                     |
 | [13][w8] | ANN intro, Repetition                                       |
 | [14][w9] | Repetition, Exam                                            |
 
