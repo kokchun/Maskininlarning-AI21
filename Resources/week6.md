@@ -8,7 +8,9 @@
 - [TF-IDF](https://www.youtube.com/watch?v=4vT4fzjkGCQ)
 
 ## Lecture notes :book:
-
+- [Random forest](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/Lec10-RandomForest.ipynb)
+- [NLP intro](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/Lec11-NLP_intro.ipynb)
+- [Naive Bayes](https://github.com/kokchun/Maskininlarning-AI21/blob/main/Lectures/Lec12-Naive_bayes.ipynb)
 
 ## Theory :book:
 
