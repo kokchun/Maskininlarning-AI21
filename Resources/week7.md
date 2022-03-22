@@ -3,6 +3,11 @@
 [:house: Main page](https://github.com/kokchun/Maskininlarning-AI21)
 
 ## Video guides :video_camera:
+- [Clustering, unsupervised learning - Andrew Ng](https://www.youtube.com/watch?v=Ev8YbxPu_bQ)
+- [k-means - Andrew Ng](https://www.youtube.com/watch?v=hDmNF9JG3lo)
+- [PCA - Andrew Ng](https://www.youtube.com/watch?v=rng04VJxUt4)
+- [Dimension reduction - data compression - Andrew Ng](https://www.youtube.com/watch?v=Zbr5hyJNGCs)
+- [Dimension reduction - data visualization - Andrew Ng](https://www.youtube.com/watch?v=cnCzY5M3txk)
 
 
 ## Lecture notes :book:
