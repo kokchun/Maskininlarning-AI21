@@ -14,6 +14,7 @@
 - [Universal approximator theorem - wikipedia](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
 - [Activation function - wikipedia](https://en.wikipedia.org/wiki/Activation_function)
 - [Multilayer perceptron (MLP) - wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+- [Rectifier (neural networks) - wikipedia](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
 
 ## Exercises :running:
 - work with the study questions 
