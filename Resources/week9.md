@@ -2,14 +2,4 @@
 
 [:house: Main page](https://github.com/kokchun/Maskininlarning-AI21)
 
-## Video guides :video_camera:
-
-
-## Lecture notes :book:
-
-
-## Theory :book:
-
-
-## Exercises :running:
-
+See previous weeks for resources for repetition. Exam is on thursday.
