@@ -10,8 +10,12 @@
 
 ## Theory :book:
 - [Neural networks - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
-
-
+- [Percecptron - wikipedia](https://en.wikipedia.org/wiki/Perceptron)
+- [Universal approximator theorem - wikipedia](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
+- [Activation function - wikipedia](https://en.wikipedia.org/wiki/Activation_function)
+- [Multilayer perceptron (MLP) - wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 ## Exercises :running:
+- work with the study questions 
+- work with mock exam
 
