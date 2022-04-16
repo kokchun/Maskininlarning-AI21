@@ -1,4 +1,4 @@
-# Schema - Linjär algebra (AI21)
+# Schema - Maskininlärning (AI21)
 
 | Vecka |     Måndag (distans)      |          Onsdag           |          Torsdag          |
 | :---: | :-----------------------: | :-----------------------: | :-----------------------: |
